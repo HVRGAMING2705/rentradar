@@ -28,7 +28,7 @@
     },
     {
      "key": "Access-Control-Allow-Origin",
-     "value": "https://rentradar.vercel.app"
+     "value": "https://rentradar-plum.vercel.app"
     },
     {
      "key": "Content-Security-Policy",
