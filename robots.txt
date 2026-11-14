@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://rentradar.vercel.app/sitemap.xml
+Sitemap: https://rentradar-plum.vercel.app/sitemap.xml
